@@ -4,7 +4,7 @@ A modern React TypeScript application featuring an interactive artwork gallery w
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.netlify.app)
+[View Live Demo](https://artwork-gallery-datatable.netlify.app/)
 
 ## 📋 Table of Contents
 
@@ -278,6 +278,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Akshay Jain**
 - GitHub: [@Akshay1267](https://github.com/Akshay1267)
+- LinkedIn: (https://www.linkedin.com/in/akshay-jain-8816252a5/)
 
 ## 🙏 Acknowledgments
 
